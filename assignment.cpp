@@ -1,8 +1,9 @@
-#include <iostream>
-using namespace std;
+#include<stdio.h>
 
-int main (){
-cout <, "My Name is Vincent Wangsadijaya" << endl;
-cout << "My Favorite Programming Language is C++" << endl;
+int main(){
 
+    printf("My Name is Vincent Wangsadijaya\n");
+    printf("My Favorite Language is C++");
+
+    return 0;
 }
